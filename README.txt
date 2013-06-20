@@ -1,0 +1,1 @@
+Projeto da disciplina de Objetos Distribuidos. Lado do Servidor do Bingo.
